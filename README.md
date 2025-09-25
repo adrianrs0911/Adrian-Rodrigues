@@ -1,10 +1,9 @@
-## Hi!
-## My name is Adrian Rodrigues
+## Hi! My name is Adrian Rodrigues
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adrianrs0911&show_icons=true&theme=shadow_red"
-    media="(prefers-color-scheme: shadow_red)"
+    srcset="https://github-readme-stats.vercel.app/api?username=adrianrs0911&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adrianrs0911&show_icons=true"
